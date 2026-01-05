@@ -3,7 +3,7 @@ System Designed to Manage a parking lot.
 
 
 Overview
-
+dfddhd
 Users can interact with a parking lot using this straightforward Java-based parking lot management system. Commands for parking, vacating parking spaces, and retrieving details on parked automobiles using their registration numbers and colors are all supported by the system.
 
 Features
